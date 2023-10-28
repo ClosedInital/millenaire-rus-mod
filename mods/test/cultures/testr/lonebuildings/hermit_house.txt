@@ -1,0 +1,20 @@
+name:Dom Otshelnika
+weight:10
+mindistancefromspawn:10
+
+biome:Taiga
+
+biome:Mega Taiga
+
+biome:Cold Taiga
+
+biome:TaigaHills
+
+biome:Roofed Forest
+
+biome:Roofed Forest M
+
+
+
+//startingbuildings:
+centre:hermit_house

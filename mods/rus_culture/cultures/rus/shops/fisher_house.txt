@@ -1,0 +1,4 @@
+buys=fishraw
+sells=fishcooked,fishraw
+deliverto=wood
+deliverto=fishcooked

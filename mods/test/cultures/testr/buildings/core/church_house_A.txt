@@ -1,0 +1,14 @@
+building.length=10
+building.width=10
+building.icon=stained_glass_green_blue
+
+initial.startlevel=-1
+initial.nativename=Cerkvushka
+initial.tag=praying
+upgrade1.priority=90
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade4.priority=85
+upgrade5.priority=80

@@ -1,0 +1,6 @@
+building.length=10
+building.width=10
+building.icon=dirt
+
+initial.startlevel=-4
+initial.nativename=Zemlyanka

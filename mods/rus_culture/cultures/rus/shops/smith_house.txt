@@ -1,0 +1,3 @@
+sells=seared_brick,seared_bricks,smeltery_controller,seared_tank,smeltery_drain,faucet,castingchannel,casting_table,casting_basin,bronzeingot,steelingot,gold,cobaltingot,arditeingot,manyullyningot,knightslimeingot,pigironingot,leatherhelmet,leatherchest,leatherlegs,leatherboots,steelhelmet,steelchest,steellegs,steelboots,goldhelmet,goldchest,goldlegs,goldboots,diamondhelmet,diamondchest,diamondlegs,diamondboots,woodsword,stonesword,steelsword,goldsword,diamondsword,bow,woodshield
+
+buys=iron,bronzeingot,steelingot,gold,cobaltingot,arditeingot,manyullyningot,knightslimeingot,pigironingot

@@ -1,0 +1,3 @@
+sells=beefraw,porkchops,chickenmeat
+buys=leather
+deliverto=beefraw,porkchops,chickenmeat

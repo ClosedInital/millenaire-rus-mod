@@ -1,0 +1,10 @@
+
+borsch_0_label=Cooking borsch!
+borsch_0_description=The husband works all day, and there is no one to bring beets to the borsch...
+borsch_0_description_success=Thank you very much, I don’t even know how to thank, good traveling!
+borsch_0_description_refuse=No? Okay, I’ll go ask someone else...!
+
+shield_0_label=Military service.
+shield_0_description=Could you find a shield unnecessary? It’s time for me to serve, but I don’t have it, whats I have to do...
+shield_0_description_success=Good man, take money for the shield.
+shield_0_description_refuse=Sorry, I have to get new excuse...

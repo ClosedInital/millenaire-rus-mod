@@ -1,0 +1,6 @@
+building.length=5
+building.width=5
+building.icon=wood_oak
+
+initial.startlevel=-1
+initial.nativename=Koryto

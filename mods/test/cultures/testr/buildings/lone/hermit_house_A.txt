@@ -1,0 +1,10 @@
+building.length=10
+building.width=10
+
+building.icon=woodsword
+
+initial.startlevel=-1
+initial.shop=farm_house
+initial.nativename=Komorka Otshelnika
+initial.male=bogatir
+initial.female=wife

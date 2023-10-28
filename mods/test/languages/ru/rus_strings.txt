@@ -1,0 +1,30 @@
+//*   Name of the villager types
+//*   Empty for the Normans in French since the original are already in French
+//* 
+//* 
+
+culture.rus=Русь
+village.boyarshina=Боярщина
+village.selo=Монастырское селище
+villager.bogatir=Богатырь
+villager.boy=Юнец
+villager.boyar=Боярин
+villager.builder=Ремесленник
+villager.butcher=Мясник
+villager.farmer=Земледелец
+villager.fisher=Рыбак
+villager.girl=Дева
+villager.lady=Знать
+villager.lumberjack=Древоруб
+villager.merchant=Купец
+villager.miner=Камнелом
+villager.monk=Священник
+villager.patriarh=Митрополит
+villager.smith=Кузнец
+villager.wife=Жена
+shop.townhall=Боярский дом
+shop.butcher_house=Свиноферма
+shop.fisher_house=Рыбацкая хижина
+shop.farm_place=Поле
+shop.miner_house=Каменоломня
+shop.smith_house=Кузня

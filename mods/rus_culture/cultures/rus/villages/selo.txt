@@ -1,0 +1,47 @@
+name:Monastirskoe selo
+weight:15
+carriesraid:true
+icon=bread
+
+pathmaterial:pathdirt
+
+biome:Taiga
+
+biome:Mega Taiga
+
+biome:Cold Taiga
+
+biome:TaigaHills
+
+biome:Roofed Forest
+
+biome:Roofed Forest M
+
+
+
+//starting buildings:
+centre:big_church
+start:grove_place
+start:peasant_house
+start:banya
+start:farm_place
+core:well
+core:well
+core:thatch_storage
+core:bath
+core:zemlyanka
+core:bogatir_house
+core:bogatir_house
+core:banya
+core:bogatir_house
+core:butcher_house
+core:butcher_house
+core:fisher_house
+core:fisher_house
+core:peasant_house
+core:grove_place
+core:farm_place
+core:smith_house
+core:miner_house
+never:boyar_house
+never:bazar

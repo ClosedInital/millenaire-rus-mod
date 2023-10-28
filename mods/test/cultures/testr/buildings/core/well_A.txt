@@ -1,0 +1,9 @@
+building.length=5
+building.width=5
+building.icon=cobblestone
+building.farfromtag=pathnode,30
+
+initial.startlevel=-1
+initial.tag=pathnode
+initial.tag=leasure
+initial.nativename=Kolodec

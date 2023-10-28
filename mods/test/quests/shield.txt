@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:2
+step:new
+duration:48
+definevillager:key=startvillager,type=rus/bogatir,forbiddentag=shield_done
+villager:startvillager
+requiredgood:shield,1
+rewardmoney:128
+rewardreputation:228
+settagsuccess:startvillager,shield_done
+settagfailure:startvillager,shield_done

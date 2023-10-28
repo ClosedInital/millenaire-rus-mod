@@ -1,0 +1,15 @@
+building.length=10
+building.width=10
+building.max=2
+building.icon=wood_pine
+
+initial.startlevel=-2
+initial.tag=leasure
+initial.nativename=Banya
+
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade4.priority=85
