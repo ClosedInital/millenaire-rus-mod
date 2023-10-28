@@ -1,7 +1,7 @@
 name:Grad1
 weight:0
 playerControlled:true
-icon=woodpickaxe
+icon=goldaxe
 
 carriesraid:true
 
