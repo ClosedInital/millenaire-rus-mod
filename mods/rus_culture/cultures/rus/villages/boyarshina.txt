@@ -28,12 +28,14 @@ core:banya
 core:banya
 core:bogatir_house
 core:well
+core:well
 core:bath
 core:thatch_storage
 core:bogatir_house
 core:peasant_house
 core:zemlyanka
 core:smith_house
+core:fisher_house
 core:fisher_house
 core:farm_place
 secondary:bazar
