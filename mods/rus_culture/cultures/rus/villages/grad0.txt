@@ -1,7 +1,7 @@
 name:Derevnya
 weight:0
 playerControlled:false
-icon=woodpickaxe
+icon=goldpickaxe
 
 carriesraid:true
 
