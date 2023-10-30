@@ -1,2 +1,0 @@
-qualifierSeparator=-
-icon=steelaxe

@@ -1,2 +1,0 @@
-goal.makeshield=Делает щит
-goal.makethatch=Укладывает солому
