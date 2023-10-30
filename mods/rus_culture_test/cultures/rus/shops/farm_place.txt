@@ -1,3 +1,0 @@
-buys=wheat,seeds
-sells=bread,thatch
-deliverto=wheat

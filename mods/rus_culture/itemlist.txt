@@ -1,2 +1,0 @@
-woodshield;minecraft:shield;0
-beetroot;minecraft:beetroot;0
