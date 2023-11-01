@@ -1,0 +1,9 @@
+building.length=27
+building.width=19
+
+building.icon=steelaxe
+
+initial.startlevel=-1
+initial.nativename=big_church
+initial.priority=1000
+initial.shop=churchtownhall
